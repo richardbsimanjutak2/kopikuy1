@@ -1,58 +1,83 @@
 {
     "arabica": [
-        {
-            "foto": "images/produk/product_capuchino.jpg",
-            "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_espresso.jpg",
-            "nama": "Pahit Arabica",
-            "size": "100 Gram",
-            "harga": "100.000",
-            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Arabica",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
-        }
+      {
+        "foto": "images/produk/product_capuchino.jpg",
+        "nama": "Cappuccino Arabica",
+        "size": "500 Gram",
+        "harga": "1255.000",
+        "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_espresso.jpg",
+        "nama": "Pahit Arabica",
+        "size": "100 Gram",
+        "harga": "95.000",
+        "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_latte.jpg",
+        "nama": "Latte Arabica",
+        "size": "150 Gram",
+        "harga": "75.000",
+        "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+      }
     ],
     "robusta": [
-        {
-            "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopsus Robusta",
-            "size": "100 Gram",
-            "harga": "500.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
-        }
+      {
+        "foto": "images/produk/product_kopi_susu.jpg",
+        "nama": "Kopsus Robusta",
+        "size": "100 Gram",
+        "harga": "285.000",
+        "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+      },
+      {
+        "foto": "images/produk/product_latte.jpg",
+        "nama": "Latte Robusta",
+        "size": "150 Gram",
+        "harga": "250.000",
+        "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+      }
     ],
-    "nonkopi": [
+
+    "estradisional": [
         {
-            "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Nonkopi 1",
-            "size": "100 Gram",
-            "harga": "500.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+          "foto": "images/produk/product_es_cincau_susu.jpg",
+          "nama": "Es Cincau Susu",
+          "size": "100 Gram",
+          "harga": "50.000",
+          "link": "https://www.google.com/search?q=es%20cincau&tbm=isch&tbs=rimg:CfdYCk_1igtIjYUBuhccpx4t7sgIRCgIIABAAOgQIABAAVa8Xkz7AAgDYAgDgAgA&rlz=1C1CHBF_enID888ID888&hl=id&sa=X&ved=0CB8QuIIBahcKEwj46fiiq9aAAxUAAAAAHQAAAAAQGw&biw=1903&bih=955#imgrc=E7yaG1xvGs7OBM"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Nonkopi 2",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
-        }
-    ]
+            "foto": "images/produk/product_es_cincau_susu.jpg",
+            "nama": "Es Dawet Nangka",
+            "size": "100 Gram",
+            "harga": "65.000",
+            "link": "https://www.google.com/search?q=gambar+es+dawet+nangka&tbm=isch&ved=2ahUKEwibyfy0s9aAAxXQ_zgGHXjgBYwQ2-cCegQIABAA&oq=es+dawet+nangka&gs_lcp=CgNpbWcQARgBMgUIABCABDIGCAAQBRAeMgYIABAIEB4yBwgAEBgQgAQ6BwgAEIoFEEM6BggAEAcQHjoECCMQJzoICAAQsQMQgwE6CAgAEIAEELEDOg0IABCKBRCxAxCDARBDOgoIABCKBRCxAxBDOgsIABCABBCxAxCDAVDZCliLPWCOXGgCcAB4AIABggGIAf4KkgEEMTUuM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=ZxrXZNv5A9D_4-EP-MCX4Ag&bih=955&biw=1920&rlz=1C1CHBF_enID888ID888#imgrc=BHgPbX46j2v7RM&imgdii=cwgG365TdqqsLM"
+          }
+      ],
 
-}
+    "milkshake": [
+      {
+        "foto": "images/produk/product_milkshake_vanilla.jpg",
+        "nama": "Vanila Milkshake",
+        "size": "500 Gram",
+        "harga": "95.000",
+        "link": "https://www.google.com/search?sca_esv=556198962&rlz=1C1CHBF_enID888ID888&sxsrf=AB5stBgqlkzJNDe5U8ix3TCNrXzs6rTa-A:1691817663387&q=vanilla+milkshake&tbm=isch&source=lnms&sa=X&ved=2ahUKEwiWg-f2r9aAAxWz4zgGHcU7A_gQ0pQJegQIDRAB&biw=1920&bih=955&dpr=1#imgrc=se29lwJwzR_CFM&imgdii=qfOOcglRrryBbM"
+      },
+      {
+        "foto": "images/produk/product_milkshake_avocado.jpg",
+        "nama": "Avocado Milkshake",
+        "size": "500 Gram",
+        "harga": "85.000",
+        "link": "https://www.google.com/search?sca_esv=556198962&rlz=1C1CHBF_enID888ID888&sxsrf=AB5stBi0UYXaGMyb65mfCKsxZUtTYOQSyg:1691818181726&q=avocado+milkshake&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwiR6PvtsdaAAxXBxTgGHR2UAvgQ0pQJegQIDBAB&biw=1920&bih=955&dpr=1#imgrc=0AYIIAJA9-gsjM"
+      },
+      {
+        "foto": "images/produk/product_milkshake_chocolate.jpg",
+        "nama": "Chocolate Milkshake",
+        "size": "500 Gram",
+        "harga": "90.000",
+        "link": "https://www.google.com/search?q=milkshake+chocolate&&tbm=isch&ved=2ahUKEwjD66qptdaAAxXe6DgGHZWXDRAQ2-cCegQIABAA&oq=milkshake+choco&gs_lcp=CgNpbWcQARgAMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB4yBAgAEB46BAgjECc6BwgjEOoCECc6CAgAEIAEELEDOgcIABCKBRBDOgoIABCKBRCxAxBDOg0IABCKBRCxAxCDARBDOgQIABADUOUKWPpnYPJ6aAFwAHgEgAGxAYgBuhWSAQQzMC42mAEAoAEBqgELZ3dzLXdpei1pbWewAQrAAQE&sclient=img&ei=ZxzXZIOcIN7R4-EPla-2gAE&bih=955&biw=1920&rlz=1C1CHBF_enID888ID888#imgrc=Bx3JBXYgeFzBZM"
+      }
+    ],
+    
+  }
